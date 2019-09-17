@@ -1,0 +1,9 @@
+C:\Users\EFA\Desktop\EFA_Programacao\UF24\Exercicios\producao3_MarcoSilva\proj_prod_msilva\proj_prod_msilva\bin\Debug\proj_prod_msilva.exe.config
+C:\Users\EFA\Desktop\EFA_Programacao\UF24\Exercicios\producao3_MarcoSilva\proj_prod_msilva\proj_prod_msilva\bin\Debug\proj_prod_msilva.exe
+C:\Users\EFA\Desktop\EFA_Programacao\UF24\Exercicios\producao3_MarcoSilva\proj_prod_msilva\proj_prod_msilva\bin\Debug\proj_prod_msilva.pdb
+C:\Users\EFA\Desktop\EFA_Programacao\UF24\Exercicios\producao3_MarcoSilva\proj_prod_msilva\proj_prod_msilva\obj\Debug\proj_prod_msilva.csprojAssemblyReference.cache
+C:\Users\EFA\Desktop\EFA_Programacao\UF24\Exercicios\producao3_MarcoSilva\proj_prod_msilva\proj_prod_msilva\obj\Debug\proj_prod_msilva.Form1.resources
+C:\Users\EFA\Desktop\EFA_Programacao\UF24\Exercicios\producao3_MarcoSilva\proj_prod_msilva\proj_prod_msilva\obj\Debug\proj_prod_msilva.Properties.Resources.resources
+C:\Users\EFA\Desktop\EFA_Programacao\UF24\Exercicios\producao3_MarcoSilva\proj_prod_msilva\proj_prod_msilva\obj\Debug\proj_prod_msilva.csproj.GenerateResource.cache
+C:\Users\EFA\Desktop\EFA_Programacao\UF24\Exercicios\producao3_MarcoSilva\proj_prod_msilva\proj_prod_msilva\obj\Debug\proj_prod_msilva.exe
+C:\Users\EFA\Desktop\EFA_Programacao\UF24\Exercicios\producao3_MarcoSilva\proj_prod_msilva\proj_prod_msilva\obj\Debug\proj_prod_msilva.pdb
